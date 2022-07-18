@@ -1,4 +1,4 @@
-# practicum_projects
+# Portfolio
 
 | Project Title  | Description | Libraries Used | Language |
 | ------------- | ------------- |-------------| -------------|
