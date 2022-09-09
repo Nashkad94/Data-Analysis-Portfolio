@@ -2,6 +2,7 @@
 
 | Project Title  | Description | Libraries/Software Used | Language |
 | ------------- | ------------- |-------------| -------------|
+| [SQL of Book Database](https://github.com/Nashkad94/Data-Analysis-Portfolio/blob/main/SQL_BookDB.ipynb) | Using SQL to query a book database to find top performing authors, publishing houses, and user interaction | SQL | Python
 | [Data Visualization of Sales (Story format)](https://public.tableau.com/shared/QFQ26XF75?:display_count=n&:origin=viz_share_link) | Tableau visualization investigating the relationship between discounts, sales, and profits | *Tableau*| |
 | [Data Visualization of Sales (Dashboard format)](https://public.tableau.com/views/SupersalesDashboard_16574978506990/CustomerDashboard?:language=en-US&:display_count=n&:origin=viz_share_link) | Tableau visualization investigating the relationship between discounts, sales, and profits | *Tableau*| | 
 | [Machine Learning](https://github.com/Nashkad94/Data-Analysis-Portfolio/blob/main/Machine%20Learning1.ipynb) | Using machine learning to predict the type of customer that is more likely to churn at a gym, Models Used: Logistic Regression and Random Forest Classification | *pandas* *sklearn* *scipy* *seaborn* | Python
